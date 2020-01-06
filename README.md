@@ -3,10 +3,26 @@ This repo is created by Alia and Lavender to develop in-depth analysis using dif
 
 ## Who are we?
 Two engineering school grads passionate about extracting data to explore environmental and cultural matters of big cities. 
-To start, we are focusing on NYC at this moment and expanding to other mega metropolitans!
+To start, we are focusing on NYC and Toronto at this moment and expanding to other mega metropolitans!
 
 ## What do we explore?
-Any urban matters, you name it, we are possibly on the way to dig it up. 
+Any urban matters, you name it, we are possibly on the way to dig it up. This repo will include but not limited to following topics:
+
+Transportation, Energy & Infrastructure
+
+Urban Ecology & Agriculture
+
+Air Quality & Heat Island Effect
+
+Food and Drinks
+
+Community & Housing
+
+Residents' Voice
+
+Education
+
+Finance & Investment 
 
 ## We love to make data colourful!
 Webcolour: https://en.wikipedia.org/wiki/Web_colors
