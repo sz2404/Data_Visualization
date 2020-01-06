@@ -14,7 +14,7 @@ Webcolour: https://en.wikipedia.org/wiki/Web_colors
 We love Python libraries and D3
 
 ### Python libraries:
-[Numpy] https://numpy.org/
-[Pandas] https://pandas.pydata.org/
+[Numpy] (https://numpy.org/)
+[Pandas] (https://pandas.pydata.org/)
 
 
