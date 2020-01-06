@@ -14,7 +14,19 @@ Webcolour: https://en.wikipedia.org/wiki/Web_colors
 We love Python libraries and D3
 
 ### Python libraries:
+#### Data processing & Wrangling:
 [Numpy](https://numpy.org/)
+
 [Pandas](https://pandas.pydata.org/)
 
+[Geopandas](http://geopandas.org/)
+
+#### Stats:
+[Scipy](https://www.scipy.org/)
+
+#### Visualization: 
+[Matplotlib](https://matplotlib.org/)
+
+#### Machine Learning:
+[Scikit Learn](https://scikit-learn.org/stable/)
 
