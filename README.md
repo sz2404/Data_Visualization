@@ -8,7 +8,7 @@ To start, we are focusing on NYC and Toronto at this moment and expanding to oth
 ## What do we explore?
 Any urban matters, you name it, we are possibly on the way to dig it up. This repo will include but not limited to following topics:
 
-Transportation, Energy & Infrastructure
+Transportation, Energy & Infrastructure ![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjGuca_9u_mAhXLV98KHRYOBhEQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2802673%2Fcar_city_courtyard_house_infrastructure_icon&psig=AOvVaw3x3C53u6aax6fat_3CgVAX&ust=1578432748043771)
 
 Urban Ecology & Agriculture
 
