@@ -22,7 +22,7 @@ Residents' Voice
 
 Education
 
-Finance & Investment 
+Economic & Financial Investment
 
 ## We love to make data colourful!
 Webcolour: https://en.wikipedia.org/wiki/Web_colors
