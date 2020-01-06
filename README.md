@@ -5,9 +5,10 @@ This repo is created by Alia and Lavender to develop in-depth analysis using dif
 Two engineering school grads passionate about extracting data to explore environmental and cultural matters of big cities. 
 To start, we are focusing on NYC at this moment and expanding to other mega metropolitans!
 
-## What do we cover?
+## What do we explore?
+Any urban matters, you name it, we are possibly on the way to dig it up. 
 
-## We love webcolours!
+## We love to make data colourful!
 Webcolour: https://en.wikipedia.org/wiki/Web_colors
 
 ## What do we used?
