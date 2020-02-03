@@ -43,6 +43,7 @@ We love Python libraries and D3
 
 #### Visualization: 
 [Matplotlib](https://matplotlib.org/)
+
 [Bokeh](https://docs.bokeh.org/en/latest/index.html)
 
 #### Machine Learning:
