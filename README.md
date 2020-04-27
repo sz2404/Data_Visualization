@@ -46,6 +46,10 @@ We love Python libraries and D3
 
 [Bokeh](https://docs.bokeh.org/en/latest/index.html)
 
+[Plotly](https://plotly.com/)
+
+[Seaborn] (https://seaborn.pydata.org/)
+
 #### Machine Learning:
 [Scikit Learn](https://scikit-learn.org/stable/)
 
